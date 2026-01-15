@@ -4,7 +4,7 @@ PKGraph-DRP: A Pathway-Prior Knowledge-Integrated Heterogeneous Graph Neural Net
 ## Requirements
 
 - Please install the environment using anaconda3;
-  conda create -n PCGraph-DRP python=3.11.11
+  conda create -n PKGraph-DRP python=3.11.11
 
 - Install the necessary packages.
 
