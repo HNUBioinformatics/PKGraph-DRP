@@ -1,6 +1,6 @@
 # PKGraph-DRP
 
-PKGraph-DRP：A Pathway-Cell Line Heterogeneous Graph Model Driven by Multi-Omics Data for Cancer Drug Response Prediction
+PKGraph-DRP: A Pathway-Prior Knowledge-Integrated Heterogeneous Graph Neural Network for Cancer Drug Response Prediction
 ## Requirements
 
 - Please install the environment using anaconda3;
